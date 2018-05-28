@@ -8,12 +8,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="consumer" />
         <module name="contract" />
-        <module name="model" />
         <module name="provider" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="consumer" target="1.5" />
+      <module name="consumer" target="1.7" />
       <module name="contract" target="1.5" />
       <module name="dubbo-example" target="1.5" />
       <module name="model" target="1.5" />
