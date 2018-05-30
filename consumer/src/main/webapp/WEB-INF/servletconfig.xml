@@ -24,6 +24,14 @@
         </mvc:async-support>
     </mvc:annotation-driven>-->
 
+    <!-- <bean id="myThreadPool" class="org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor">
+     <property name="corePoolSize" value="5" />&lt;!&ndash;最小线程数;
+     <property name="maxPoolSize" value="10" />&lt;!&ndash;最大线程数;
+     <property name="queueCapacity" value="50" />&lt;!&ndash;缓冲队列大小;
+     <property name="threadNamePrefix" value="abc-" />&lt;!&ndash;线程池中产生的线程名字前缀;
+     <property name="keepAliveSeconds" value="30" />&lt;!&ndash;线程池中空闲线程的存活时间单位秒;
+    </bean>-->
+
     <!-- 如果当前请求为“/”时，则转发到“/home/index” -->
     <mvc:view-controller path="/" view-name="forward:/home/index"/>
     <!-- 静态资源映射-->
@@ -40,14 +48,6 @@
     <context:component-scan base-package="com.erola.dubbo.example.consumer.controller" use-default-filters="false">
         <context:include-filter type="annotation" expression="org.springframework.stereotype.Controller"/>
     </context:component-scan>
-
-    <!-- <bean id="myThreadPool" class="org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor">
-         <property name="corePoolSize" value="5" />&lt;!&ndash;最小线程数;
-         <property name="maxPoolSize" value="10" />&lt;!&ndash;最大线程数;
-         <property name="queueCapacity" value="50" />&lt;!&ndash;缓冲队列大小;
-         <property name="threadNamePrefix" value="abc-" />&lt;!&ndash;线程池中产生的线程名字前缀;
-         <property name="keepAliveSeconds" value="30" />&lt;!&ndash;线程池中空闲线程的存活时间单位秒;
-     </bean>-->
 
     <!-- 视图解析器 -->
     <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
