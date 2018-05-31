@@ -10,7 +10,7 @@ public class HelloService implements IHelloService {
 
     public HelloTest sayHello(HelloTest helloTest) {
         if(helloTest==null){
-           helloTest.setAnswer("");
+           helloTest.setAnswer("嘿嘿嘿");
         }
         return helloTest;
     }

@@ -14,7 +14,7 @@
     <bytecodeTargetLevel>
       <module name="consumer" target="1.8" />
       <module name="contract" target="1.8" />
-      <module name="dubbo-example" target="1.5" />
+      <module name="dubbo-example" target="1.8" />
       <module name="provider" target="1.8" />
     </bytecodeTargetLevel>
   </component>
