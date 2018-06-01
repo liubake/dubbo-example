@@ -1,9 +1,11 @@
 package com.erola.dubbo.example.contract.model;
 
+import java.io.Serializable;
+
 /**
  * Created by Erola on 2018/5/29.
  */
-public class HelloTest {
+public class HelloTest implements Serializable {
     private String ask;
     private String answer;
 
