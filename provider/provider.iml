@@ -12,25 +12,25 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="contract" />
-    <orderEntry type="library" name="Maven: com.alibaba:dubbo-config-spring:2.6.1" level="project" />
-    <orderEntry type="library" name="Maven: com.alibaba:dubbo-config-api:2.6.1" level="project" />
-    <orderEntry type="library" name="Maven: com.alibaba:dubbo-monitor-api:2.6.1" level="project" />
-    <orderEntry type="library" name="Maven: com.alibaba:dubbo-filter-validation:2.6.1" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba:dubbo-config-spring:2.6.2" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba:dubbo-config-api:2.6.2" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba:dubbo-monitor-api:2.6.2" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba:dubbo-filter-validation:2.6.2" level="project" />
     <orderEntry type="library" name="Maven: javax.validation:validation-api:1.1.0.Final" level="project" />
-    <orderEntry type="library" name="Maven: com.alibaba:dubbo-filter-cache:2.6.1" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba:dubbo-filter-cache:2.6.2" level="project" />
     <orderEntry type="library" name="Maven: javax.cache:cache-api:1.0.0" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework:spring-beans:4.3.10.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-beans:4.3.16.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-core:4.3.10.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: commons-logging:commons-logging:1.2" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-context:4.3.10.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-aop:4.3.10.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-expression:4.3.10.RELEASE" level="project" />
-    <orderEntry type="library" name="Maven: com.alibaba:dubbo-rpc-injvm:2.6.1" level="project" />
-    <orderEntry type="library" name="Maven: com.alibaba:dubbo-registry-zookeeper:2.6.1" level="project" />
-    <orderEntry type="library" name="Maven: com.alibaba:dubbo-registry-api:2.6.1" level="project" />
-    <orderEntry type="library" name="Maven: com.alibaba:dubbo-cluster:2.6.1" level="project" />
-    <orderEntry type="library" name="Maven: com.alibaba:dubbo-remoting-zookeeper:2.6.1" level="project" />
-    <orderEntry type="library" name="Maven: com.alibaba:dubbo-common:2.6.1" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba:dubbo-rpc-injvm:2.6.2" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba:dubbo-registry-zookeeper:2.6.2" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba:dubbo-registry-api:2.6.2" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba:dubbo-cluster:2.6.2" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba:dubbo-remoting-zookeeper:2.6.2" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba:dubbo-common:2.6.2" level="project" />
     <orderEntry type="library" name="Maven: log4j:log4j:1.2.16" level="project" />
     <orderEntry type="library" name="Maven: org.javassist:javassist:3.20.0-GA" level="project" />
     <orderEntry type="library" name="Maven: org.apache.zookeeper:zookeeper:3.4.9" level="project" />
@@ -42,14 +42,14 @@
     <orderEntry type="library" name="Maven: org.apache.curator:curator-framework:2.12.0" level="project" />
     <orderEntry type="library" name="Maven: org.apache.curator:curator-client:2.12.0" level="project" />
     <orderEntry type="library" name="Maven: com.google.guava:guava:16.0.1" level="project" />
-    <orderEntry type="library" name="Maven: com.alibaba:dubbo-rpc-dubbo:2.6.1" level="project" />
-    <orderEntry type="library" name="Maven: com.alibaba:dubbo-rpc-api:2.6.1" level="project" />
-    <orderEntry type="library" name="Maven: com.alibaba:dubbo-remoting-api:2.6.1" level="project" />
-    <orderEntry type="library" name="Maven: com.alibaba:dubbo-container-api:2.6.1" level="project" />
-    <orderEntry type="library" name="Maven: com.alibaba:dubbo-remoting-netty:2.6.1" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba:dubbo-rpc-dubbo:2.6.2" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba:dubbo-rpc-api:2.6.2" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba:dubbo-remoting-api:2.6.2" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba:dubbo-container-api:2.6.2" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba:dubbo-remoting-netty:2.6.2" level="project" />
     <orderEntry type="library" name="Maven: org.jboss.netty:netty:3.2.5.Final" level="project" />
-    <orderEntry type="library" name="Maven: com.alibaba:dubbo-serialization-hessian2:2.6.1" level="project" />
-    <orderEntry type="library" name="Maven: com.alibaba:dubbo-serialization-api:2.6.1" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba:dubbo-serialization-hessian2:2.6.2" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba:dubbo-serialization-api:2.6.2" level="project" />
     <orderEntry type="library" name="Maven: com.alibaba:fastjson:1.2.46" level="project" />
     <orderEntry type="library" name="Maven: com.esotericsoftware:kryo:4.0.1" level="project" />
     <orderEntry type="library" name="Maven: com.esotericsoftware:reflectasm:1.11.3" level="project" />
@@ -61,6 +61,6 @@
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-core:2.8.6" level="project" />
     <orderEntry type="library" name="Maven: com.cedarsoftware:java-util:1.9.0" level="project" />
     <orderEntry type="library" name="Maven: com.cedarsoftware:json-io:2.5.1" level="project" />
-    <orderEntry type="library" name="Maven: com.alibaba:hessian-lite:3.2.2" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba:hessian-lite:2.6.2" level="project" />
   </component>
 </module>
